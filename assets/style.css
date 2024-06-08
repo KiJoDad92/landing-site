@@ -1,0 +1,49 @@
+*{
+font-family: "lucidia handwriting";
+}
+header{
+align:fixed;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+  }
+
+
+#form{
+margin: 50px;
+}
+h1{
+background-color:tan;
+display: block;
+margin-left: auto;
+margin-right: 25px;
+width: 23%;d
+}
+
+h2{
+background-color: black;
+color:white;
+display: block;
+margin-left: auto;
+margin-right: 25px;
+width: 23%;
+}
+
+h3{
+background-color: rgb(233, 163, 11);
+display:block;
+margin-left: 500px;
+margin-right: 500px;
+}
+
+div{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:10%;
+}
+
